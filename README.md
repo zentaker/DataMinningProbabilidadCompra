@@ -1,4 +1,4 @@
-# DataMinningProbabilidadCompra
+# DataMinning SQL server
 
 <img width="809" alt="dm1" src="https://user-images.githubusercontent.com/46875264/143677467-dcae053b-9dda-47d4-94f1-9e200d137cd4.PNG">
 
